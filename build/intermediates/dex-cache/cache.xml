@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\pre-dexed\debug\classes-194fc55d9337bff235aa212a2c26ee7bd99ed0f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\pre-dexed\debug\classes-e32b28f91fe55cebe3a8f2951b17406a86af4766.jar" />
+    </item>
+    <item
+        jar="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-1c609e1712ad67f5c304de179332b470f1424cef.jar" />
+    </item>
+    <item
+        jar="C:\Users\dabduljalal\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-d74cdba1e00e0ea7289a0c806be952595cf8bcfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\pre-dexed\debug\classes-a52ae050b4f81fb9e0181de2eb56c4ef3537de1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\dabduljalal\AndroidStudioProjects\SavingDataExample\app\build\intermediates\pre-dexed\debug\classes-e6570819263dee139aa2b402df3afe2b49ad5c0a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SavingDataExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_button">Save</string>
+    <string name="show_button">Show Saved Data</string>
+    <string name="insert_text">Please insert a text</string>
+    <string name="display_text">No text to display</string>
+
+</resources>
